@@ -1,0 +1,19 @@
+{
+  "name": "promise-by-gaurav",
+  "version": "1.0.0",
+  "description": "custom implementation of promise.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravLabhane/Promise.git"
+  },
+  "author": "Gaurav Labhane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauravLabhane/Promise/issues"
+  },
+  "homepage": "https://github.com/GauravLabhane/Promise#readme"
+}
