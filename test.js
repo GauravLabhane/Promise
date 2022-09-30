@@ -34,7 +34,6 @@ function main () {
       })
       .catch(function(err) {
         console.log(err);
-        console.error('Oh no! There is an error caught by the catch block');
       });
 }
 main();
